@@ -21,6 +21,11 @@ end
 
 group :production do
   gem 'rails_12factor'
+  gem 'pg'
+end
+
+group :development do
+  gem 'sqlite3'
 end
 
 gem 'jquery-rails'
