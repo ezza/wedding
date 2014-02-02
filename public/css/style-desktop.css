@@ -459,6 +459,8 @@
 		{
 			font-size: 1.5em;
 			letter-spacing: 0.075em;
+			padding-left: 10%;
+			padding-right: 10%;
 		}	
 		
 		#intro .style2
@@ -468,6 +470,8 @@
 			line-height: 1.35em;
 			padding: 1em 0 1em 0;
 			margin-bottom: 1em;
+			padding-left: 10%;
+			padding-right: 10%;
 		}
 		
 		#intro .style3
@@ -475,6 +479,8 @@
 			font-size: 1.1em;
 			width: 48em;
 			margin: 0 auto;
+			padding-left: 10%;
+			padding-right: 10%;
 		}
 
 /*********************************************************************************/
@@ -613,3 +619,13 @@
 			line-height: 1em;
 			font-size: 0.8em;
 		}
+
+/*********************************************************************************/
+/* Extras                                                                     */
+/*********************************************************************************/
+
+iframe
+{
+	width:  650px;
+	height: 910px;
+}
