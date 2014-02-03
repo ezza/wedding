@@ -133,7 +133,7 @@
 
 		.feature-list h3
 		{
-			margin: 0 0 0.75em 0;
+			margin: 0 0 0.75em 4.25em;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
 			margin-top: -0.35em;
@@ -148,12 +148,29 @@
 				font-size: 32px;
 				top: 0.2em;
 			}
+
+		
+		.feature-list .description
+		{
+			
+		}
+
+		.image-container
+		{
+			float: left;
+		}
+		
+		.image-container img
+		{
+			width: 60px;
+			height: 60px;
+		}
 	
 		.feature-list p
 		{
 			margin: 0 0 0 5em;
 		}
-		
+
 		.feature-list-small
 		{
 		}
@@ -359,7 +376,7 @@
 		{
 			display: inline-block;
 			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,0.25);
+			box-shadow: inset 0px 0px 1px 1px #282b34;
 			padding: 0 1.5em 0 1.5em;
 		}
 
@@ -374,8 +391,7 @@
 			#nav > ul > li > span
 			{
 				display: block;
-				color: #eee;
-				color: rgba(255,255,255,0.75);
+				color: #282b34;
 				text-transform: uppercase;
 				text-decoration: none;
 				font-size: 0.7em;
@@ -494,7 +510,7 @@
 
 		#features header.style1
 		{
-			padding-bottom: 5em;
+			padding: 0 0 0 0;
 		}
 		
 		#features .actions

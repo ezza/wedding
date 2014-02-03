@@ -130,17 +130,17 @@
 			line-height: 1.25em;
 		}
 
-			.feature-list h3:before
-			{
-				position: absolute;
-				left: 0;
-				top: 0;
-				width: 32px;
-				height: 32px;
-				line-height: 32px;
-				font-size: 16px;
-			}
-	
+		.image-container
+		{
+			float: left;
+		}
+		
+		.image-container img
+		{
+			width: 40px;
+			height: 40px;
+		}
+
 		.feature-list p
 		{
 			margin: 0 0 0 48px;
@@ -294,6 +294,8 @@
 	#header-wrapper
 	{
 		padding: 6em 2em 6em 2em;
+		background: url('../images/erinandrachel-banner-small.jpg') center center;
+		background-size: cover;
 	}
 
 	#footer-wrapper

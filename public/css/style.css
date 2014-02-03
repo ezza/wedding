@@ -331,7 +331,7 @@
 
 		.button-style1
 		{
-			background: #e97770 url('images/overlay.png');
+			background: #22b24c url('images/overlay.png');
 			color: #fff;
 		}
 
@@ -432,7 +432,7 @@
 
 		.feature-list h3
 		{
-			color: #e97770 !important;
+			color: #22b24c !important;
 		}
 		
 			.feature-list h3:before
@@ -921,12 +921,12 @@
 			transform: scaleX(-1);
     	}
 
-	#header-wrapper
-	{
-		background: url('../images/banner.jpg') center center;
-		background-size: cover;
-	}
-	
+		#header-wrapper
+		{
+			background: url('../images/erinandrachel-banner.jpg') center center;
+			background-size: cover;
+		}
+		
 		#header-wrapper:before
 		{
 			content: '';
@@ -1041,14 +1041,14 @@
 	
 	.wrapper-style1
 	{
-		background: #e97770 url('images/overlay.png');
+		background: #f2ac5f url('images/overlay.png');
 		color: #eee;
 		color: rgba(255,255,255,0.75);
 	}
 	
 		.wrapper-style1 .title
 		{
-			background: #e97770 url('images/overlay.png');
+			background: #f2ac5f url('images/overlay.png');
 			color: #fff;
 		}
 	
@@ -1159,7 +1159,7 @@
 		
 			#highlights .highlight h3
 			{
-				color: #e97770;
+				color: #22b24c;
 			}
 
 /*********************************************************************************/
