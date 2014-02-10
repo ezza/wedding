@@ -23,7 +23,7 @@
 
 	body, input, textarea, select
 	{
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'PT Sans Narrow', sans-serif;
 		font-weight: 400;
 		color: #919499;
 	}
@@ -337,12 +337,7 @@
 
 			.button-style1:hover
 			{
-				background-color: #f98780;
-			}
-			
-			.button-style1:active
-			{
-				background-color: #d96760;
+				background-color: #00bf4c;
 			}
 
 		.button-style2
